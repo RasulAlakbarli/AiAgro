@@ -1,2 +1,2 @@
 # aiAgro
-View flood predictions in your region
+AiAgro is a convenient and super effective service for forecasting and avoiding floods. Our service uses modern and accurate Machine Learning technology to predict detailed information about floods such as flood date, water level before and after floods and max water levels. It uses the average water level of each river, and future rainfall forecast as an input to give you all information you need.
