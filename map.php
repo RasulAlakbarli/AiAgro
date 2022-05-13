@@ -2,9 +2,6 @@
     include 'getdata.php';
 ?>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
