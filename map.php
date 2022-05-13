@@ -1,9 +1,5 @@
 <?php
-
     include 'getdata.php';
-
-    
-
 ?>
 
 
